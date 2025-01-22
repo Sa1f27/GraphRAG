@@ -29,7 +29,7 @@ To run this project locally, follow the steps below:
 ### Step 1: Clone the Repository
 ```bash
 git clone https://github.com/Sa1f27/GraphRAG.git
-cd <repository-folder>
+cd GraphRAG
 ```
 
 ### Step 2: Set Environment Variables

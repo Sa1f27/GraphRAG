@@ -1,0 +1,7 @@
+streamlit
+rdflib
+openai
+python-dotenv
+weaviate-client
+pandas
+config
